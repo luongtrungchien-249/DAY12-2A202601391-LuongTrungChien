@@ -41,4 +41,6 @@ POST /ask không key → 401 {"detail":"invalid or missing API key"}
 ## Ảnh Chụp Màn Hình
 
 - `screenshots/dashboard.png` — Railway dashboard hiển thị deployment thành công.
+
+![1786342834164](image/DEPLOYMENT/1786342834164.png)
 - `screenshots/health.png` — public endpoint `/health` trả HTTP 200.
